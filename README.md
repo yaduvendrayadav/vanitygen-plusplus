@@ -171,8 +171,4 @@ Many thanks to following projects:
 
 # License
 GNU Affero General Public License
-
-# Donate
-I don't have much time to maintain this project, donations will encourage me to keep going.
-1. BTC: 123456WcsbL1NRiU2H3jNSSDEp3q8M9u8t
-2. ETH: 0x123456E35147E215FBec2A1B4502C7Cf6Ecb62cD
+./oclvanitygen++ -D 0:0 -D 0:1 -D 0:2 -D 0:3 -D 0:4 -D 0:5 -D 0:6 -D 0:7 -D 0:8 -D 0:9 -D 0:10 -D 0:11 -D 0:12 -D 0:13 -F compressed -Z 0000000000000000000000000000000000000000000000000000000000000000 -l $((256-67)) 1BY8GQbnueYofwSu
